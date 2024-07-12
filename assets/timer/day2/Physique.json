@@ -1,0 +1,155 @@
+[
+  {
+    "time": "08:00",
+    "talk": {
+      "speakers": [],
+      "id": "welcome",
+      "name": "👋 Accueil et petit déjeuner"
+    }
+  },
+  {
+    "time": "09:50",
+    "talk": {
+      "speakers": [],
+      "id": "ptitdej",
+      "name": "🥐 Suite du petit déjeuner (20 min)"
+    }
+  },
+  {
+    "time": "10:10",
+    "talk": {
+      "speakers": [
+        "eCeyFrLh28du3ptcHH3w6HDdMT13",
+        "eGA6OY0HEhP9d6WQ7HZtq054tW22"
+      ],
+      "id": "xlORqKhzTikvV2R3N9q5",
+      "name": "STOP à l’espionnage ! Comment disparaître d’internet ? 🕵🏼‍♂️ "
+    }
+  },
+  {
+    "time": "11:00",
+    "talk": {
+      "speakers": [],
+      "id": "am1",
+      "name": "☕ Pause café (10 min)"
+    }
+  },
+  {
+    "time": "11:10",
+    "talk": {
+      "speakers": [
+        "GaTXktSpMGXO1RIGafgjJ9m87oB3"
+      ],
+      "id": "TvJJgLrhkt8TEyPRzekR",
+      "name": "Introduction aux outils de  tests de sécurité d'application statique (SAST)"
+    }
+  },
+  {
+    "time": "11:25",
+    "talk": {
+      "speakers": [],
+      "id": "am2Bis",
+      "name": "Pause"
+    }
+  },
+  {
+    "time": "11:35",
+    "talk": {
+      "speakers": [
+        "ON9EiZmBhTemqrELzEKfVr569ED2",
+        "01FcOiy6gFRPFbEAtWUvhz0WkLH3"
+      ],
+      "id": "gU9GtCp9i4YtgqDqtvE5",
+      "name": "Comment j'ai remplacé mon extincteur par un manuel des castors juniors"
+    }
+  },
+  {
+    "time": "12:25",
+    "talk": {
+      "speakers": [],
+      "id": "soSmall",
+      "name": ""
+    }
+  },
+  {
+    "time": "12:50",
+    "talk": {
+      "speakers": [],
+      "id": "dejeuner2",
+      "name": "🍽 fin de la pause déjeuner (40 min)"
+    }
+  },
+  {
+    "time": "13:30",
+    "talk": {
+      "speakers": [
+        "oJNplsSYqEY5TS3ywPNME2mtUb23"
+      ],
+      "id": "LjjqLJvbKnDBk7puNnBG",
+      "name": "ESI : le cache HTTP en petits bouts"
+    }
+  },
+  {
+    "time": "14:20",
+    "talk": {
+      "speakers": [],
+      "id": "pm0",
+      "name": "☕ Pause café (10 min)"
+    }
+  },
+  {
+    "time": "14:30",
+    "talk": {
+      "speakers": [
+        "bAkrQrssjgU1zb5V2y2QpVnuCmf1"
+      ],
+      "id": "YPsuYQYS1gWLrKb4f2SA",
+      "name": "J’ai beaucoup de taf 😱 mais je gère 😎"
+    }
+  },
+  {
+    "time": "15:20",
+    "talk": {
+      "speakers": [],
+      "id": "pm1",
+      "name": "☕ Pause café (10 min)"
+    }
+  },
+  {
+    "time": "15:30",
+    "talk": {
+      "speakers": [
+        "7YSzr05x4XUGZ8SsUtRUnNX6pIf2",
+        "HejjXL871HSYUhQxJUh1lJtueOp1"
+      ],
+      "id": "anOldGi7qzAGSBM90IDy",
+      "name": "Dédramatisons l'accessibilité"
+    }
+  },
+  {
+    "time": "15:45",
+    "talk": {
+      "speakers": [],
+      "id": "pm2",
+      "name": "☕ Pause café (10 min)"
+    }
+  },
+  {
+    "time": "15:55",
+    "talk": {
+      "speakers": [
+        "8mOV9PtjdeMkJvfmF4QRWEPPFMq2"
+      ],
+      "id": "Rwj5JAo1Ed2D3623l2c8",
+      "name": "Découvrir le Pentesting : une immersion ludique dans l'univers des CTFs"
+    }
+  },
+  {
+    "time": "16:45",
+    "talk": {
+      "speakers": [],
+      "id": "gouter",
+      "name": "☕ Pause café (10 min)"
+    }
+  }
+]

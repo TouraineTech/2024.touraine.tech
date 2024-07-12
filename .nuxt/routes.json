@@ -1,0 +1,72 @@
+[
+  {
+    "name": "coc",
+    "path": "/coc",
+    "component": "/home/valentin/dev/touraine-tech/tourainetech.github.io/pages/coc.vue",
+    "chunkName": "pages/coc",
+    "_name": "_ccf290aa"
+  },
+  {
+    "name": "schedule",
+    "path": "/schedule",
+    "component": "/home/valentin/dev/touraine-tech/tourainetech.github.io/pages/schedule.vue",
+    "chunkName": "pages/schedule",
+    "_name": "_8dafc7da"
+  },
+  {
+    "name": "speakers",
+    "path": "/speakers",
+    "component": "/home/valentin/dev/touraine-tech/tourainetech.github.io/pages/speakers.vue",
+    "chunkName": "pages/speakers",
+    "_name": "_a2c3f960"
+  },
+  {
+    "name": "timer",
+    "path": "/timer",
+    "component": "/home/valentin/dev/touraine-tech/tourainetech.github.io/pages/timer/index.vue",
+    "chunkName": "pages/timer/index",
+    "_name": "_7e63973c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/valentin/dev/touraine-tech/tourainetech.github.io/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_11a43af4"
+  },
+  {
+    "name": "speaker-displayName",
+    "path": "/speaker/:displayName?",
+    "component": "/home/valentin/dev/touraine-tech/tourainetech.github.io/pages/speaker/_displayName.vue",
+    "chunkName": "pages/speaker/_displayName",
+    "_name": "_2ab4368c"
+  },
+  {
+    "name": "sponsor-name",
+    "path": "/sponsor/:name?",
+    "component": "/home/valentin/dev/touraine-tech/tourainetech.github.io/pages/sponsor/_name.vue",
+    "chunkName": "pages/sponsor/_name",
+    "_name": "_56eb8469"
+  },
+  {
+    "name": "talk-id",
+    "path": "/talk/:id?",
+    "component": "/home/valentin/dev/touraine-tech/tourainetech.github.io/pages/talk/_id.vue",
+    "chunkName": "pages/talk/_id",
+    "_name": "_6186915a"
+  },
+  {
+    "name": "timer-day",
+    "path": "/timer/:day",
+    "component": "/home/valentin/dev/touraine-tech/tourainetech.github.io/pages/timer/_day.vue",
+    "chunkName": "pages/timer/_day",
+    "_name": "_5c0357e3"
+  },
+  {
+    "name": "timer-someDay-room",
+    "path": "/timer/:someDay/:room?",
+    "component": "/home/valentin/dev/touraine-tech/tourainetech.github.io/pages/timer/_someDay/_room.vue",
+    "chunkName": "pages/timer/_someDay/_room",
+    "_name": "_4a0cc60c"
+  }
+]
